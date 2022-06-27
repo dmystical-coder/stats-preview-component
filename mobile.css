@@ -12,10 +12,10 @@
       }
       .card{
         text-align: center;
-        padding: 50px 5px;
+        padding: 50px 20px;
       }
       .card p{
-        /* font-size: 16px; */
+        font-size: 16px;
         margin-bottom: 30px;
       }
       .stats{
