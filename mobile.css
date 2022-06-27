@@ -1,0 +1,25 @@
+@media only screen and (max-width: 768px){
+    main{
+        flex-direction: column;
+    }
+    .mobile-header {
+        border-radius: 7.5px 7.5px 0 0;
+        display: block;
+        width: 100%;
+      }
+      .desktop-header{
+        display: none;
+      }
+      .card{
+        text-align: center;
+        padding: 50px 20px;
+      }
+      .card p{
+        font-size: 16px;
+        margin-bottom: 30px;
+      }
+      .stats{
+        flex-direction: column;
+      }
+}
+
